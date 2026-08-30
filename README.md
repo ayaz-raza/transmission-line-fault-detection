@@ -83,7 +83,7 @@ The target variable is:
 
 Random Forest achieved:
 
-**Test Accuracy: 100%**
+**Test Accuracy: 96.00%**
 
 Logistic Regression was also used as a baseline and achieved approximately:
 
